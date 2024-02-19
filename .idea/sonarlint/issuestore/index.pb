@@ -3,3 +3,17 @@ S
 #src/main/java/com/rashawn/Main.java,d/a/da311e2bcb5580416dc21654f35beb5767ef4a92
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+Z
+*src/main/java/com/rashawn/core/Result.java,3/4/343868004e4460489bba89144c2fc22d682e7461
+c
+3src/main/java/com/rashawn/core/enums/ErrorType.java,1/1/116ad2689d83ae7d6f6463bd9c48800eaddfd1b5
+c
+3src/main/java/com/rashawn/core/error/ErrorType.java,e/8/e8e8610fd0ba92c4e0d3a909e6f79181e2208fdc
+i
+9src/main/java/com/rashawn/core/model/error/ErrorType.java,6/c/6cdd0662a36aec39f505ba33b42a55a3aa831b50
+`
+0src/main/java/com/rashawn/core/model/Result.java,8/e/8e8036a9f8797c6dbdd7dd92aaf7b163fc46102c
+h
+8src/main/java/com/rashawn/core/model/type/ErrorType.java,c/9/c986b9413c71272d63995b29dee8c2584db0f329
+^
+.src/main/java/com/rashawn/core/model/Test.java,8/8/88121b274fe1b3486c3b9f042f39f0efa0ea53d7
